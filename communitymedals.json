@@ -1,0 +1,486 @@
+{
+  "TUT_MOVEMENT": [
+    18209999,
+    17882999
+  ],
+  "TUT_SHOOTINGRANGE": [
+    7249999,
+    6799999
+  ],
+  "SLUGGER": [
+    7513650,
+    7026999
+  ],
+  "TUT_FROG": [
+    9474999,
+    9139999
+  ],
+  "TUT_JUMP": [
+    15384180,
+    14825999
+  ],
+  "GRID_TUT_BALLOON": [
+    16233228,
+    15705999
+  ],
+  "TUT_BOMB2": [
+    8759372,
+    8388999
+  ],
+  "TUT_BOMBJUMP": [
+    10950999,
+    10630999
+  ],
+  "TUT_FASTTRACK": [
+    21766666,
+    20999999
+  ],
+  "GRID_PORT": [
+    22200999,
+    19849999
+  ],
+  "GRID_PAGODA": [
+    15789999,
+    15249999
+  ],
+  "TUT_RIFLE": [
+    5968789,
+    5950999
+  ],
+  "TUT_RIFLEJOCK": [
+    9567365,
+    9099999
+  ],
+  "TUT_DASHENEMY": [
+    11842663,
+    11512999
+  ],
+  "GRID_JUMPDASH": [
+    9931733,
+    9499999
+  ],
+  "GRID_SMACKDOWN": [
+    9975487,
+    9789999
+  ],
+  "GRID_MEATY_BALLOONS": [
+    13800655,
+    13648999
+  ],
+  "GRID_FAST_BALLOON": [
+    21949799,
+    21629999
+  ],
+  "GRID_DRAGON2": [
+    15320626,
+    15133999
+  ],
+  "GRID_DASHDANCE": [
+    16192999,
+    15728999
+  ],
+  "TUT_GUARDIAN": [
+    20529077,
+    19678999
+  ],
+  "TUT_UZI": [
+    14694806,
+    13889999
+  ],
+  "TUT_JUMPER": [
+    13599682,
+    12555999
+  ],
+  "TUT_BOMB": [
+    12912954,
+    12299999
+  ],
+  "GRID_DESCEND": [
+    9999671,
+    9499999
+  ],
+  "GRID_STAMPEROUT": [
+    11199381,
+    10879999
+  ],
+  "GRID_CRUISE": [
+    16972199,
+    14655999
+  ],
+  "GRID_SPRINT": [
+    16639524,
+    15978499
+  ],
+  "GRID_MOUNTAIN": [
+    17751583,
+    15924999
+  ],
+  "GRID_SUPERKINETIC": [
+    16299711,
+    14614999
+  ],
+  "GRID_ARRIVAL": [
+    21579773,
+    20999999
+  ],
+  "FLOATING": [
+    27918134,
+    24570999
+  ],
+  "GRID_BOSS_YELLOW": [
+    36569550,
+    33899999
+  ],
+  "GRID_HOPHOP": [
+    16849970,
+    16544999
+  ],
+  "GRID_RINGER_TUTORIAL": [
+    13999808,
+    12859989
+  ],
+  "GRID_RINGER_EXPLORATION": [
+    12999938,
+    11648999
+  ],
+  "GRID_HOPSCOTCH": [
+    11753942,
+    11179785
+  ],
+  "GRID_BOOM": [
+    16341946,
+    15599941
+  ],
+  "GRID_SNAKE_IN_MY_BOOT": [
+    7354999,
+    6884999
+  ],
+  "GRID_FLOCK": [
+    12464666,
+    11999999
+  ],
+  "GRID_BOMBS_AHOY": [
+    7094951,
+    6720999
+  ],
+  "GRID_ARCS": [
+    17292908,
+    16399999
+  ],
+  "GRID_APARTMENT": [
+    15382634,
+    12879999
+  ],
+  "TUT_TRIPWIRE": [
+    23009999,
+    22104999
+  ],
+  "GRID_TANGLED": [
+    13458910,
+    12520999
+  ],
+  "GRID_HUNT": [
+    20275598,
+    19499999
+  ],
+  "GRID_CANNONS": [
+    25262354,
+    24227999
+  ],
+  "GRID_FALLING": [
+    20452457,
+    19464999
+  ],
+  "TUT_SHOCKER2": [
+    28277797,
+    27289999
+  ],
+  "TUT_SHOCKER": [
+    22471999,
+    20999897
+  ],
+  "GRID_PREPARE": [
+    27522685,
+    25487999
+  ],
+  "GRID_TRIPMAZE": [
+    32816847,
+    27599999
+  ],
+  "GRID_RACE": [
+    23074515,
+    22247999
+  ],
+  "TUT_FORCEFIELD2": [
+    16165925,
+    14420825
+  ],
+  "GRID_SHIELD": [
+    16771907,
+    15748999
+  ],
+  "SA L VAGE2": [
+    13340509,
+    12411509
+  ],
+  "GRID_VERTICAL": [
+    24673282,
+    23863999
+  ],
+  "GRID_MINEFIELD": [
+    12999097,
+    11699999
+  ],
+  "TUT_MIMIC": [
+    9735374,
+    9325247
+  ],
+  "GRID_MIMICPOP": [
+    20076717,
+    18999999
+  ],
+  "GRID_SWARM": [
+    7696856,
+    7499999
+  ],
+  "GRID_SWITCH": [
+    17922400,
+    16735999
+  ],
+  "GRID_TRAPS2": [
+    25211403,
+    22999999
+  ],
+  "TUT_ROCKETJUMP": [
+    12238460,
+    11449999
+  ],
+  "TUT_ZIPLINE": [
+    11896723,
+    11564999
+  ],
+  "GRID_CLIMBANG": [
+    16681839,
+    15315999
+  ],
+  "GRID_ROCKETUZI": [
+    39872898,
+    37599999
+  ],
+  "GRID_CRASHLAND": [
+    28464362,
+    26679999
+  ],
+  "GRID_ESCALATE": [
+    25564361,
+    22499999
+  ],
+  "GRID_SPIDERCLAUS": [
+    39555414,
+    37999999
+  ],
+  "GRID_FIRECRACKER_2": [
+    34527753,
+    30563999
+  ],
+  "GRID_SPIDERMAN": [
+    25074568,
+    21678999
+  ],
+  "GRID_DESTRUCTION": [
+    27966018,
+    24999999
+  ],
+  "GRID_HEAT": [
+    25890879,
+    23999999
+  ],
+  "GRID_BOLT": [
+    29229606,
+    25599999
+  ],
+  "GRID_PON": [
+    26999747,
+    25799999
+  ],
+  "GRID_CHARGE": [
+    31121917,
+    29759999
+  ],
+  "GRID_MIMICFINALE": [
+    18188015,
+    16624999
+  ],
+  "GRID_BARRAGE": [
+    31844284,
+    28298999
+  ],
+  "GRID_1GUN": [
+    36722186,
+    31999999
+  ],
+  "GRID_HECK": [
+    22092454,
+    20399999
+  ],
+  "GRID_ANTFARM": [
+    33791689,
+    31179999
+  ],
+  "GRID_FORTRESS": [
+    29082751,
+    24117999
+  ],
+  "GRID_GODTEMPLE_ENTRY": [
+    52799936,
+    51599999
+  ],
+  "GRID_BOSS_GODSDEATHTEMPLE": [
+    69785332,
+    59999999
+  ],
+  "GRID_EXTERMINATOR": [
+    8359876,
+    7499951
+  ],
+  "GRID_FEVER": [
+    7869972,
+    5299999
+  ],
+  "GRID_SKIPSLIDE": [
+    9899996,
+    8659999
+  ],
+  "GRID_CLOSER": [
+    12333912,
+    10888999
+  ],
+  "GRID_HIKE": [
+    8059915,
+    7199999
+  ],
+  "GRID_SKIP": [
+    12899935,
+    11889999
+  ],
+  "GRID_CEILING": [
+    16457145,
+    14755999
+  ],
+  "GRID_BOOP": [
+    24899987,
+    23599999
+  ],
+  "GRID_TRIPRAP": [
+    10999891,
+    9799999
+  ],
+  "GRID_ZIPRAP": [
+    15299903,
+    12999999
+  ],
+  "TUT_ORIGIN": [
+    66999999,
+    62794999
+  ],
+  "GRID_BOSS_RAPTURE": [
+    85999999,
+    78999999
+  ],
+  "SIDEQUEST_OBSTACLE_PISTOL": [
+    14899888,
+    14419999
+  ],
+  "SIDEQUEST_OBSTACLE_PISTOL_SHOOT": [
+    25699684,
+    24599999
+  ],
+  "SIDEQUEST_OBSTACLE_MACHINEGUN": [
+    31912929,
+    30787999
+  ],
+  "SIDEQUEST_OBSTACLE_RIFLE_2": [
+    13094596,
+    12569999
+  ],
+  "SIDEQUEST_OBSTACLE_UZI2": [
+    39228861,
+    38284878
+  ],
+  "SIDEQUEST_OBSTACLE_SHOTGUN": [
+    35470132,
+    33999999
+  ],
+  "SIDEQUEST_OBSTACLE_ROCKETLAUNCHER": [
+    40499294,
+    37548999
+  ],
+  "SIDEQUEST_RAPTURE_QUEST": [
+    1749748,
+    1469999
+  ],
+  "SIDEQUEST_SUNSET_FLIP_POWERBOMB": [
+    36924825,
+    36479899
+  ],
+  "GRID_BALLOONLAIR": [
+    19794182,
+    19579999
+  ],
+  "SIDEQUEST_BARREL_CLIMB": [
+    36874889,
+    35959999
+  ],
+  "SIDEQUEST_FISHERMAN_SUPLEX": [
+    41596839,
+    37989899
+  ],
+  "SIDEQUEST_STF": [
+    17899359,
+    16842999
+  ],
+  "SIDEQUEST_ARENASIXNINE": [
+    23389807,
+    20999999
+  ],
+  "SIDEQUEST_ATTITUDE_ADJUSTMENT": [
+    41512642,
+    40167898
+  ],
+  "SIDEQUEST_ROCKETGODZ": [
+    47999658,
+    44259999
+  ],
+  "SIDEQUEST_DODGER": [
+    19899937,
+    18789999
+  ],
+  "GRID_GLASSPATH": [
+    24678795,
+    24399999
+  ],
+  "GRID_GLASSPATH2": [
+    19199999,
+    18639999
+  ],
+  "GRID_HELLVATOR": [
+    21827813,
+    21299999
+  ],
+  "GRID_GLASSPATH3": [
+    24534980,
+    23937999
+  ],
+  "SIDEQUEST_ALL_SEEING_EYE": [
+    27899976,
+    27355999
+  ],
+  "SIDEQUEST_RESIDENTSAWB": [
+    17299871,
+    16699999
+  ],
+  "SIDEQUEST_RESIDENTSAW": [
+    16429999,
+    16359999
+  ]
+}
